@@ -1,0 +1,104 @@
+body{
+    background: linear-gradient(0deg, rgba(145,0,255,1) 0%, rgba(196,0,255,1) 100%);
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: purple;
+    border-radius: 40px;
+    border: 10px solid purple;
+}
+ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+a{
+    color: white;
+}
+.text{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.place{
+    background: rgb(145,0,255);
+}
+.capa {
+    display: flex;
+    justify-content: center;
+}
+.capa img{
+    border: 10px solid blueviolet;
+    border-radius: 10%;
+}
+.text1{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.explic{
+    display: flex;
+    justify-content: center;
+    background: blueviolet;
+    color: white;
+    border: 10px solid blueviolet
+}
+.text2{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.container{
+    display: flex;
+    gap: 100px;
+    height: 500px;
+    width: 1500px;
+}
+.tittle{
+    color: white;
+    display: flex;
+    padding: 50px 0px 0px 100px;
+    align-items: center;
+}
+.games{
+    background-image: url(https://i.pinimg.com/564x/20/98/83/20988342b782963049e8af24bd5a998f.jpg);
+    border-radius: 10%;
+}
+.vai{
+    display: flex;
+    padding: 40px;
+    color: rgb(248, 218, 255);
+    justify-content: flex-start;
+    align-items: center;
+}
+.comida{
+    background-image: url(https://i.pinimg.com/736x/76/05/3b/76053b89ef25eadab0bfbc6b6c02e62c.jpg);
+    border-radius: 10%;
+}
+.go{
+    display: flex;
+    padding: 50px;
+    color: rgb(92, 43, 133);;
+    justify-content: flex-start;
+    align-items: center;
+}
+.clother{
+    background-image: url(https://i.pinimg.com/564x/17/4c/bc/174cbc7633650a8e2c1744377e2aeadd.jpg);
+    border-radius: 10%;
+    padding: 0px;
+}
+.title{
+    color: white;
+    padding: 40px;
+}
+.vou{
+    display: flex;
+    padding: 50px;
+    color: rgb(48, 7, 71);
+    justify-content: flex-start;
+    align-items: center;
+}
